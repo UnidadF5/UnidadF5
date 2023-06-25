@@ -27,7 +27,8 @@ Puedes ponerte en contacto con nosotros de las siguientes maneras:
 - 🐦 Twitter: [@UnidadF5](https://twitter.com/UnidadF5)
 
 ¡Esperamos tener noticias tuyas pronto!
-![FacturacionF5 Logo Circulo](https://github.com/UnidadF5/UnidadF5/assets/135081983/c0e34bb2-a788-4aa1-9d83-55a07ac54d7b)
+
+![F5 Transparent ](https://github.com/UnidadF5/UnidadF5/assets/135081983/58fdbd5a-7433-480c-9ff3-8d6a0382b95f)
 
 <!---
 UnidadF5/UnidadF5 es un repositorio ✨ especial ✨ porque su archivo `README.md` (este archivo) aparece en tu perfil de GitHub.
